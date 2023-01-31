@@ -1,6 +1,7 @@
 .jumbotron {
     background-color: rgb(179, 120, 235);
     color: white;
+    margin: 0;
 }
 .footer{
     background-color: rgb(176, 164, 187);
